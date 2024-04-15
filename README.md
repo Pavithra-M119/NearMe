@@ -18,7 +18,7 @@ Using ```<map>``` tag name the map.
 ### STEP 4
 Create clickable regions in the image using ```<area>``` tag.
 
-### STEP 5
+### STEP 5 
 Write HTML programs for all the regions identified.
 
 ### STEP 6
